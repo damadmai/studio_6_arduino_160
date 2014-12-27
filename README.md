@@ -1,8 +1,8 @@
-# Atmel Studio 6.2 solution for AVR projects using Arduino Library 1.0.x
+# Atmel Studio 6.2 solution for AVR projects using Arduino Library 1.5.x
 
 ## Prequesites
-* Download and install [Arduino IDE 1.0.x](http://arduino.cc/en/Main/Software) into suggested path.
-* Add the template [`studio_6_arduino_100_template`](https://github.com/damadmai/studio_6_arduino_100_template) 
+* Download and install [Arduino IDE 1.5.x](http://arduino.cc/en/Main/Software) into suggested path.
+* Add the template [`studio_6_arduino_150_template`](https://github.com/damadmai/studio_6_arduino_150_template)
 as described.
 
 ## Instructions
