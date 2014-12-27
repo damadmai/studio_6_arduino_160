@@ -1,8 +1,34 @@
-# `.gitignore` template for AVR projects
+# Atmel Studio 6.2 solution for AVR projects using Arduino Library 1.0.x
 
-Simple [`.gitignore`](./.gitignore) template for AVR projects using [Atmel Studio](http://www.mikrocontroller.net/articles/Atmel_Studio) or [CodeBlocks](http://www.codeblocks.org/).
+## Prequesites
+* Download and install [Arduino IDE 1.0.x](http://arduino.cc/en/Main/Software) into suggested path.
+* Add the template [`studio_6_arduino_100_template`](https://github.com/damadmai/studio_6_arduino_100_template) 
+as described.
 
-See also [GitHub’s collection](https://github.com/github/gitignore).
+## Instructions
+
+1. Fork this repository and clone it to desktop.
+* Rename [`studio_arduino.atsln`](./studio_arduino.atsln) to `<your-repository>.atsln`.
+* Open the Solution `<your-repository>.atsln` with 
+  [Atmel Studio 6.2](http://www.mikrocontroller.net/articles/Atmel_Studio).
+* Click `File` &rarr;	`New` &rarr; `Project` in menu bar.
+* Select `studio_arduino`, name it `<your-repository>` and select `Solution` &rarr; `Add` then `OK`.
+* Right click `<your-repository>` in Solution Explorer and then `Set as StartUp Project`.
+* Collapse `arduinocore` in Solution Explorer as you won't need it.
+* Rename `studio_arduino.cpp` to `<your-repository>.cpp` in Solution Explorer.
+* Click `Continue`, add description if you wish and then click `Finish`.
+* Build your solution by pressing F7 or using the menu bar.
+* Add your code and repeat the step above.
+* Do a commit and publish your project. :octocat:
+
+## Links
+
+German Discussion Forum Thread:
+https://www.mikrocontroller.net/topic/344073
+
+http://www.engblaze.com/tutorial-using-atmel-studio-6-with-arduino-projects/
+
+http://code-clarity.blogspot.co.at/2013/01/atmel-studio-for-arduino-guys-part1.html
 
 ## License
 
