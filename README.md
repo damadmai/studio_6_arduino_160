@@ -26,7 +26,7 @@ as described.
 German Discussion Forum Thread:
 https://www.mikrocontroller.net/topic/344073
 
-http://www.engblaze.com/tutorial-using-atmel-studio-6-with-arduino-projects/
+[http://www.engblaze.com/tutorial-using-atmel-studio-6-with-arduino-projects/] (https://web.archive.org/web/20150812213502/http://www.engblaze.com/tutorial-using-atmel-studio-6-with-arduino-projects/)
 
 https://code-clarity.blogspot.co.at/2013/01/atmel-studio-for-arduino-guys-part1.html
 
