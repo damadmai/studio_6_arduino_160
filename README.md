@@ -10,7 +10,7 @@ as described.
 1. Fork this repository and clone it to desktop.
 * Rename [`studio_arduino.atsln`](./studio_arduino.atsln) to `<your-repository>.atsln`.
 * Open the Solution `<your-repository>.atsln` with 
-  [Atmel Studio 6.2](https://www.mikrocontroller.net/articles/Atmel_Studio).
+  [Atmel Studio 6.2 Build 1563](https://www.mikrocontroller.net/articles/Atmel_Studio).
 * Click `File` &rarr;	`New` &rarr; `Project` in menu bar.
 * Select `studio_arduino`, name it `<your-repository>` and select `Solution` &rarr; `Add` then `OK`.
 * Right click `<your-repository>` in Solution Explorer and then `Set as StartUp Project`.
@@ -26,7 +26,7 @@ as described.
 German Discussion Forum Thread:
 https://www.mikrocontroller.net/topic/344073
 
-http://www.engblaze.com/tutorial-using-atmel-studio-6-with-arduino-projects/
+[http://www.engblaze.com/tutorial-using-atmel-studio-6-with-arduino-projects/] (https://web.archive.org/web/20150812213502/http://www.engblaze.com/tutorial-using-atmel-studio-6-with-arduino-projects/)
 
 https://code-clarity.blogspot.co.at/2013/01/atmel-studio-for-arduino-guys-part1.html
 
