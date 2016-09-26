@@ -16,7 +16,6 @@ as described.
 * Right click `<your-repository>` in Solution Explorer and then `Set as StartUp Project`.
 * Collapse `arduinocore` in Solution Explorer as you won't need it.
 * Rename `studio_arduino.cpp` to `<your-repository>.cpp` in Solution Explorer.
-* Click `Continue`, add description if you wish and then click `Finish`.
 * Build your solution by pressing F7 or using the menu bar.
 * Add your code and repeat the step above.
 * Do a commit and publish your project. :octocat:
